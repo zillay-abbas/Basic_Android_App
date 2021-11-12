@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Database_Activity_Assignment2</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="country">Country</string>
+    <string name="register">Register</string>
+    <string name="reset">Reset</string>
+    <string name="login">Login</string>
+    <string name="student_card">Student Card</string>
+</resources>
